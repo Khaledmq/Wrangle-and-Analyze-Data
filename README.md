@@ -1,4 +1,3 @@
-Wrangle-and-Analyze-Data
 This project is a data wrangling and analysis project, which involves gathering data from various sources, assessing its quality and tidiness, cleaning the data and performing exploratory data analysis on it.
 
 The project is divided into three main parts:
